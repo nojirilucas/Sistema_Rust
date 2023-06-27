@@ -10,11 +10,12 @@ comando deve ser implementada em uma ou mais classes separadas:
 4. Totalizavel (abstrata ou interface): define um método abstrato chamado total que retorna o valor total
 (float);
 5. Venda (subclasse de Totalizavel): número (int), data (Date), cliente (Cliente), itens (lista ou array de
-ItemVenda). O método total deve calcular a soma dos totais de cada item.
+ItemVenda).
+O método total deve calcular a soma dos totais de cada item.
 
-• ItemVenda (subclasse de Totalizavel): produto (Produto), valor (float), quantidade (int). O valor é copiado
-do valor do produto no momento da venda, assim, mesmo que o valor do produto mude posteriormente,
-as vendas mantêm o valor do momento em que foram realizadas). O método total deve calcular o valor
-vezes a quantidade.
+• ItemVenda (subclasse de Totalizavel): produto (Produto), valor (float), quantidade (int).
+O valor é copiado do valor do produto no momento da venda, assim, mesmo que o valor do produto mude posteriormente,
+as vendas mantêm o valor do momento em que foram realizadas).
+O método total deve calcular o valor vezes a quantidade.
 
 ![menu](https://github.com/nojirilucas/Sistema_Rust/assets/103136574/60a6ffc9-fe43-4ee4-ac35-716a65203000)
