@@ -17,4 +17,4 @@ do valor do produto no momento da venda, assim, mesmo que o valor do produto mud
 as vendas mantêm o valor do momento em que foram realizadas). O método total deve calcular o valor
 vezes a quantidade.
 
-![menu]([Captura de tela de 2023-06-27 17-17-27](https://github.com/nojirilucas/Sistema_Rust/assets/103136574/60a6ffc9-fe43-4ee4-ac35-716a65203000))
+![menu](https://github.com/nojirilucas/Sistema_Rust/assets/103136574/60a6ffc9-fe43-4ee4-ac35-716a65203000)
