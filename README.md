@@ -1,5 +1,5 @@
 # Sistema_Rust 
-![rust-logo-512x512](https://github.com/nojirilucas/Hipercampo_C/assets/103136574/071f7136-9f3f-4522-9d44-e6c818a7b4e8)
+<img src="https://github.com/nojirilucas/Hipercampo_C/assets/103136574/071f7136-9f3f-4522-9d44-e6c818a7b4e8" width="500">
 
 Desenvolver um sistema utilizando a linguagem escolhida pela equipe. O sistema deve apresentar um menu em
 linha de comando que permite a inclusão, alteração, remoção e visualização dos dados das entidades abaixo. As
